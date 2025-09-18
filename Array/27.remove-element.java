@@ -4,6 +4,7 @@
  * [27] Remove Element
  */
 
+//the package name should be the same as the file path
 package Array;
 
 // @lc code=start
