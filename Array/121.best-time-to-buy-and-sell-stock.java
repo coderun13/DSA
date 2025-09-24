@@ -8,6 +8,8 @@
 //array traversal, O(n) time, O(1) space
 //max profit = max(sell - buy)
 //lowest buy, highest sell(profit)
+// logic: similar to Kadane's algorithm
+// keep track of the minimum price to buy and the maximum profit
 
 // package Array;
 // @lc code=start
