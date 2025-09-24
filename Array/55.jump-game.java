@@ -10,6 +10,8 @@
 // If we can reach the last index from the current index, update the last index to the current index
 // Continue this process until we reach the first index
 // pre index + max jump >= last index
+// Space complexity: O(1)
+
 
 // package Array;
 // @lc code=start
