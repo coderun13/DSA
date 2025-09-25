@@ -7,6 +7,8 @@
 //1. Brute Force: Sorting
 //2. HashMap: (key, value) = (element, frequency)
 //3. Boyer-Moore Voting Algorithm: (count, candidate), if count == 0, candidate = current element, if current element == candidate, count++, else count--
+// Optimised way: Boyer-Moore Voting Algorithm
+// Time Complexity: O(n)
 
 // @lc code=start
 
