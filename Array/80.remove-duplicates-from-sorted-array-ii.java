@@ -6,7 +6,7 @@
 
 // i=2, j-2 
 
-package Array;
+// package Array;
 
 // @lc code=start
 class Solution {
