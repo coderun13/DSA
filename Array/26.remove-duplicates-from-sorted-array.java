@@ -20,7 +20,7 @@
 // i = 3, j = 9 -> nums[3] != nums[9], i++, nums[4] = nums[9], j++
 // End: i = 4, return i + 1 = 5
 
-package Array;
+// package Array;
 
 // @lc code=start
 class Solution {
@@ -28,7 +28,7 @@ class Solution {
         int n = nums.length;
         int j = 1; // fast pointer
 
-        for (int i = 0; i < n - 1; i++) { // slow pointer
+        for (int i = 0; i < n; i++) { // slow pointer
             if (nums[i] != nums[j - 1]) {
                 nums[j] = nums[i];
                 j++;
