@@ -4,7 +4,9 @@
  * [80] Remove Duplicates from Sorted Array II
  */
 
-// i=2, j-2 
+// logic: remove duplicates such that each element appear at most twice and return the new length.
+// two pointer approach
+// i=2, j=2
 
 // package Array;
 
